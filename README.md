@@ -11,4 +11,6 @@
 
 ## Autor
 
-<img width="150" height="150" src="https://user-images.githubusercontent.com/62398638/226926253-a131c3ee-a52b-483e-acd9-d6d2f74ab260.jpeg" />
+<a href="https://www.linkedin.com/in/jerry-dev-084793203/" >
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/62398638/226926253-a131c3ee-a52b-483e-acd9-d6d2f74ab260.jpeg" />
+</a>
